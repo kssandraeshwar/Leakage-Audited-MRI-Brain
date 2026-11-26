@@ -1,0 +1,5 @@
+model,domain_probe_acc_mean,sd
+ERM|A,0.55,
+DANN-UDA|A>B,0.4625,
+ERM|B,0.6,
+DANN-UDA|B>A,0.525,

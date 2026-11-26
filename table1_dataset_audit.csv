@@ -1,0 +1,5 @@
+cls,A,B (all),B removed (twin in A),B clean
+glioma,60,60,2,58
+meningioma,60,60,3,57
+notumor,60,60,5,55
+pituitary,60,60,3,57
